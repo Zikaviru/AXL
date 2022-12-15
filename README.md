@@ -1,14 +1,14 @@
 # BEM VINDO 🖕
 
-# SSH-PLUS
+# SSH-PLUS MOD
 
-# @ALFAINTERNET
+# http://t.me/Zikaviru
 
 *PROJETO EM ANDAMENTO...
 
 
-# Modo de instalação
-# 👇👽👍
+# Modo de instalação #
+
 Só joga na máquina e deixar instalar
 
 • atualiza sistema
