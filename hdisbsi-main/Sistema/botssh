@@ -1,6 +1,6 @@
 #!/bin/bash
 clear
-#--------@ALFAINTERNET-----------#
+#--------@ZIKAVIRU-----------#
 source ShellBot.sh
 touch lista
 [[ -z $1 ]] && {
