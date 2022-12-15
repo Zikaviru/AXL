@@ -1,10 +1,10 @@
-# BEM VINDO 🖕
+# BEM VINDO!
 
-# SSH-PLUS MOD
+# SSH-PLUS MOD #
 
 # http://t.me/Zikaviru
 
-*PROJETO EM ANDAMENTO...
+PROJETO EM ANDAMENTO!
 
 
 # Modo de instalação #
