@@ -74,7 +74,7 @@ fun_ajuda() {
     if [[ "$id_chatuser" = "$id_admin" ]]; then
         local env_msg
 env_msg="╔═══════•⊱✦⊰•═══════╗\n"
-        env_msg+="<b>        THE ORION BOT</b>\n"
+        env_msg+="<b>        ZIKAVIRU</b>\n"
         env_msg+="╚═══════•⊱✦⊰•═══════╝\n\n"
         env_msg+="⚠️ <i>Comandos Disponiveis</i>\n\n"
         env_msg+="[<b>01</b>] /menu = Exibe menu\n"
